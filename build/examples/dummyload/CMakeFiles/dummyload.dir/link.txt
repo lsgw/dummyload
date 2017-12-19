@@ -1,0 +1,1 @@
+g++   -Wall -Wl,-Bstatic -lstdc++ -lsupc++ -Wl,-Bdynamic    CMakeFiles/dummyload.dir/dummyload.cpp.o  -o ../../../bin/dummyload -rdynamic ../../../lib/libbase.a ../../../lib/libnet.a ../../../lib/libhttp.a ../../../lib/libnet.a -lpthread 

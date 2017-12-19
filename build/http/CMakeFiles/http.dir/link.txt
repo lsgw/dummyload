@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libhttp.a  CMakeFiles/http.dir/HttpResponse.cpp.o CMakeFiles/http.dir/HttpServer.cpp.o CMakeFiles/http.dir/HttpContext.cpp.o CMakeFiles/http.dir/HttpRequest.cpp.o
+/usr/bin/ranlib ../../lib/libhttp.a

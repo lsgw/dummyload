@@ -1,0 +1,4 @@
+/home/xiaoge/Desktop/dummyload/build/base/CMakeFiles/base.dir
+/home/xiaoge/Desktop/dummyload/build/examples/dummyload/CMakeFiles/dummyload.dir
+/home/xiaoge/Desktop/dummyload/build/http/CMakeFiles/http.dir
+/home/xiaoge/Desktop/dummyload/build/src/CMakeFiles/net.dir
